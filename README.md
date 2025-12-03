@@ -1,9 +1,9 @@
 # smart-college-attendance-system
-"An online attendance system that verifies student IP addresses to ensure secure and accurate attendance 
+An online attendance system that verifies student IP addresses to ensure secure and accurate attendance 
 
 ---
 
-## Introduction
+##📜 Introduction
 This project is an **online attendance system** designed for college teachers. Students can mark their attendance **online** while ensuring authenticity using **IP address validation**. Only devices connected to the **college network** can mark attendance, preventing proxy or fake submissions from home. Attendance is recorded in a **Google Sheet** using Google App Script, so teachers do not need to manually mark attendance.  
 
 **Key Idea:**  
@@ -14,7 +14,7 @@ This project is an **online attendance system** designed for college teachers. S
 
 ---
 
-## Explanation
+## 📌 Explanation
 1. **Student LSelection:** Students select their unique **Student ID** from a dropdown list.  
 2. **IP Validation:** The system checks the **IP address** of the device. Only if it matches the **college network**, attendance is allowed.  
 3. **Attendance Recording:** After validation, attendance is saved to a **Google Sheet** using **Google App Script**.  
@@ -25,7 +25,7 @@ This project is an **online attendance system** designed for college teachers. S
 
 ---
 
-## Technology Used
+## 🧑‍💻Technology Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -36,7 +36,7 @@ This project is an **online attendance system** designed for college teachers. S
 
 ---
 
-## Features
+## ✨Features
 
 - Online attendance marking from college devices  
 - IP address verification to prevent fake attendance  
@@ -47,7 +47,7 @@ This project is an **online attendance system** designed for college teachers. S
 
 ---
 
-## IP Address Details
+##🛜 IP Address Details
 
 | Type | IP Address |
 |------|------------|
@@ -58,7 +58,7 @@ This project is an **online attendance system** designed for college teachers. S
 
 ---
 
-## Google Sheets Script Details
+## 🧻 Google Sheets Script Details
 
 - A **Google App Script Web App** connects the frontend with Google Sheets.  
 - Attendance is recorded with **Student ID, Timestamp, and IP Address**.  
@@ -77,11 +77,11 @@ This project is an **online attendance system** designed for college teachers. S
 
 ---
 
-## Git Setup
+## 🎛️ Git Setup
 
 1. Clone the repository: 
 
-git clone https://github.com/your-username/smart-college-attendance.git
+git clone https://github.com/harish-m-5/smart-college-attendance.git
 ----
 
 2. Navigate to project folder:
@@ -101,13 +101,13 @@ git push origin main
 
 ---
 
-## License
+##🗒️ License
 
 This project is MIT Licensed.
-You are free to use, modify, and distribute it with proper credit.
+it are free to use, modify, and distribute it with proper credit.
 
 ---
-## Ouput:
+## 📷 Ouput:
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-03 211050" src="https://github.com/user-attachments/assets/de9cf7ac-ac65-41a0-b4df-f591c74bf5ef" />
 
@@ -115,7 +115,7 @@ You are free to use, modify, and distribute it with proper credit.
 
 ---
 
-## Demo Video
+## 🎥 Demo Video
 
 
 https://github.com/user-attachments/assets/62220dab-4c30-4d73-b382-d28f3fa63466

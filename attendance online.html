@@ -186,8 +186,7 @@ async function getUserIP() {
   document.getElementById("userIP").textContent = data.ip;
   return data.ip;
 }
-
-/* ------------------- MARK ATTENDANCE ------------------- */
+
 document.getElementById("submitBtn").addEventListener("click", async () => {
 
   let id = document.getElementById("studentId").value;
@@ -203,7 +202,6 @@ document.getElementById("submitBtn").addEventListener("click", async () => {
     return;
   }
 
-  // Send data to Google Sheet
   let res = await fetch(GOOGLE_SCRIPT_URL, {
     method: "POST",
     headers: {"Content-Type": "text/plain"},

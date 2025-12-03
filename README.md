@@ -106,7 +106,7 @@ git push origin main
 
 ---
 
-##🗒️ License
+## 🗒️ License
 
 This project is MIT Licensed.
 it are free to use, modify, and distribute it with proper credit.

@@ -3,7 +3,7 @@ An online attendance system that verifies student IP addresses to ensure secure 
 
 ---
 
-##📜 Introduction
+## 📜 Introduction
 This project is an **online attendance system** designed for college teachers. Students can mark their attendance **online** while ensuring authenticity using **IP address validation**. Only devices connected to the **college network** can mark attendance, preventing proxy or fake submissions from home. Attendance is recorded in a **Google Sheet** using Google App Script, so teachers do not need to manually mark attendance.  
 
 **Key Idea:**  
@@ -47,7 +47,7 @@ This project is an **online attendance system** designed for college teachers. S
 
 ---
 
-##🛜 IP Address Details
+## 🛜 IP Address Details
 
 | Type | IP Address |
 |------|------------|

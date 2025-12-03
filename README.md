@@ -75,6 +75,12 @@ This project is an **online attendance system** designed for college teachers. S
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-03 212433" src="https://github.com/user-attachments/assets/9666b8a7-6a96-47f7-a6ee-d67e63345e74" />
 
+
+
+Google App script URL 🖇️:
+"https://script.google.com/macros/s/AKfycbyh_GT5cN9NZwJdJTMNVpYJS5o6GolChFx29HhSG3ld2eX-LT1sNcBbl_VsWaT-dp4Njw/exec";
+
+
 ---
 
 ## 🎛️ Git Setup
@@ -82,7 +88,6 @@ This project is an **online attendance system** designed for college teachers. S
 1. Clone the repository: 
 
 git clone https://github.com/harish-m-5/smart-college-attendance.git
-----
 
 2. Navigate to project folder:
 
